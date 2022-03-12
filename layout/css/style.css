@@ -1,0 +1,27 @@
+
+
+
+.login{
+    height: 100vh;
+}
+.price-items{
+    position: absolute;
+    top: 16%;
+    background-color: #945959;
+    left: -1px;
+    box-shadow: -3px 4px 7px 1px #9f9a9a;
+}
+
+.wallet{
+    box-shadow: 0 0 10px #CCC;
+}
+
+.circle{
+    width: 50%;
+    height: 58%;
+    border: 10px solid;
+}
+
+.circle h1{
+    margin: 40px 35px;
+}
